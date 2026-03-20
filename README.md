@@ -1,1 +1,1 @@
-# mushroom_classification
+# mushrooms_classification
