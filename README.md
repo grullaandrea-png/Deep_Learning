@@ -1,1 +1,1 @@
-# mushroom_classification_model_dervishi
+# mushroom_classification
